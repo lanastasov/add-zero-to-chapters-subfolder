@@ -6,6 +6,7 @@ import (
 	"os/exec"
 )
 
+// https://github.com/lanastasov/add-zero-to-chapters
 func main() {
 	fmt.Println("---add-zero-to-chapters-recursive---")
 	// call add-zero-to-chapters.go in all sub folders
