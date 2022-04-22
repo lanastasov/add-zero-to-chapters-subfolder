@@ -8,7 +8,7 @@ import (
 
 // https://github.com/lanastasov/add-zero-to-chapters
 func main() {
-	fmt.Println("---version:0.0.2---")
+	fmt.Println("---version:0.0.3---")
 	fmt.Println("---add-zero-to-chapters-subfolder---")
 	fmt.Println("---generate-mp4-video-index-subfolder.exe---")
 	fmt.Println("---go get github.com/lanastasov/add-zero-to-chapters-subfolder/. ---")
