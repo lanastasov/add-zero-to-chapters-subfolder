@@ -9,6 +9,7 @@ import (
 // https://github.com/lanastasov/add-zero-to-chapters
 func main() {
 	fmt.Println("---add-zero-to-chapters-recursive---")
+	fmt.Println("---generate-mp4-video-index-subfolder.exe---")
 	// call add-zero-to-chapters.go in all sub folders
 
 	cmd, _ := exec.Command("add-zero-to-chapters").Output()
