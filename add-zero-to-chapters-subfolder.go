@@ -11,6 +11,7 @@ func main() {
 	fmt.Println("---version:0.0.1---")
 	fmt.Println("---add-zero-to-chapters-subfolder---")
 	fmt.Println("---generate-mp4-video-index-subfolder.exe---")
+	fmt.Println("---go get github.com/lanastasov/add-zero-to-chapters-subfolder/. ---")
 	// call add-zero-to-chapters.go in all sub folders
 
 	cmd, _ := exec.Command("add-zero-to-chapters").Output()
