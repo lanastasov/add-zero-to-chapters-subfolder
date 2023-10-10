@@ -6,6 +6,7 @@ import (
 	"os/exec"
 )
 
+// https://github.com/lanastasov/copy-file-names-empty
 // https://github.com/lanastasov/add-zero-to-chapters
 // https://github.com/lanastasov/generate-mp4-video-index
 func main() {
